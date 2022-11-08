@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/its_imarx" target="blank"><img src="https://img.shields.io/twitter/follow/its_imarx?logo=twitter&style=for-the-badge" alt="its_imarx" /></a> </p>
 
-- 🔭 I’m currently working on a **Real-Estate-App**
-
-- 🌱 I’m currently learning **C#, R Language**
-
 - 💬 Ask me about **React js, PHP, Kotlin, Machine Learning, MySQL**
 
-- 📫 How to reach me **imarx5277@gmail.com**
+- 📫 Reach me via Gmail **imarx5277@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk](https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk)
 
