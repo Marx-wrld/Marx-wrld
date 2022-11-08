@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ian Marx</h1>
+<h1 align="center">Hello there 👋</h1>
 <h3 align="center">I'm a coder, passionate in advancing my mastery in Simulation and Artificial Intelligence</h3>
 
 <p align="left"> <a href="https://twitter.com/its_imarx" target="blank"><img src="https://img.shields.io/twitter/follow/its_imarx?logo=twitter&style=for-the-badge" alt="its_imarx" /></a> </p>
