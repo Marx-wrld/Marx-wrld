@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/its_imarx" target="blank"><img src="https://img.shields.io/twitter/follow/its_imarx?logo=twitter&style=for-the-badge" alt="its_imarx" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/its_imarx" target="blank"><img src="https://img.shields.io/twitter/follow/its_imarx?logo=twitter&style=for-the-badge" alt="its_imarx" /></a> </p>-->
 
 - 📫 Reach me via mail **imarx5277@gmail.com**
 
