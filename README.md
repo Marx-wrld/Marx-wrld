@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/its_imarx" target="blank"><img src="https://img.shields.io/twitter/follow/its_imarx?logo=twitter&style=for-the-badge" alt="its_imarx" /></a> </p>
 
-- 📫 Reach me via Gmail **imarx5277@gmail.com**
+- 📫 Reach me via mail **imarx5277@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk](https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk)
 
