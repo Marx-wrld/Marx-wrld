@@ -1,7 +1,7 @@
 <h2 align="left">Hello there 👋</h2>
 📫 Reach me via Mail  - imarx5277@gmail.com
 
-📄 Find my Resume Here [https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk](https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk)
+📄 Find my Resume Here [https://drive.google.com/file/d/1TlqE1OaMKkiz5OwrHcOGEzjPxmTzfjEN/view?usp=drivesdk](https://drive.google.com/file/d/1TlqE1OaMKkiz5OwrHcOGEzjPxmTzfjEN/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
