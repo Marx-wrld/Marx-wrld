@@ -1,5 +1,5 @@
 <h2 align="left">Hello there 👋</h2>
-📫 Reach me via Mail **imarx5277@gmail.com**
+📫 Reach me via Mail imarx5277@gmail.com
 
 📄 Find my Resume Here [https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk](https://drive.google.com/file/d/1LiltlsL0cUWf0kyllpgRna-mx1R_X7tY/view?usp=drivesdk)
 
