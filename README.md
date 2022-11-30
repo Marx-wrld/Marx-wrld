@@ -2,7 +2,7 @@
 
 📫 Reach me via Mail  - imarx5277@gmail.com
 
-👨‍💻 My portfolio website - [https://6380c1328cebdf1b569a35f1--imarx-webportfolio.netlify.app/](https://6380c1328cebdf1b569a35f1--imarx-webportfolio.netlify.app/)
+👨‍💻 My portfolio website - [imarx-webportfolio.netlify.app/](https://6380c1328cebdf1b569a35f1--imarx-webportfolio.netlify.app/)
 
 📄 Find my Resume Here - [https://drive.google.com/file/d/1TlqE1OaMKkiz5OwrHcOGEzjPxmTzfjEN/view?usp=drivesdk](https://drive.google.com/file/d/1TlqE1OaMKkiz5OwrHcOGEzjPxmTzfjEN/view?usp=drivesdk)
 
