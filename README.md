@@ -16,4 +16,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marx-wrld&show_icons=true&locale=en" alt="Marx-wrld"/></p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,tailwind,rust,nextjs,react,sass,mongodb" />
+  </a>
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marx-wrld&" alt="Marx-wrld"/></p>
