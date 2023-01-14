@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,tailwind,rust,nextjs,react,sass,mongodb" />
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,tailwind,rust,nextjs,react,sass,mongodb,docker" />
   </a>
 </p>
 
