@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marx-wrld&show_icons=true&theme=tokyonight&locale=en" alt="Marx-wrld"/></p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,flutter,tailwind,rust,nextjs,react,sass,mongodb,docker" />
   </a>
