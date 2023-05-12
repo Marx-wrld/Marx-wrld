@@ -4,8 +4,6 @@
 
 👨‍💻 My portfolio website - [imarx-webportfolio.netlify.app/](https://6380c1328cebdf1b569a35f1--imarx-webportfolio.netlify.app/)
 
-📄 Find my Resume Here - [https://drive.google.com/file/d/1TlqE1OaMKkiz5OwrHcOGEzjPxmTzfjEN/view?usp=drivesdk](https://drive.google.com/file/d/1TlqE1OaMKkiz5OwrHcOGEzjPxmTzfjEN/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_imarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_imarx" height="30" width="40"/></a>
