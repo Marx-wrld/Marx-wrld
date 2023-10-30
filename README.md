@@ -19,5 +19,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,flutter,tailwind,rust,nextjs,react,sass,mongodb,php" />
   </a>
 </p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marx-wrld&theme=tokyonight" alt="Marx-wrld"/></p>
+-->
