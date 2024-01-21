@@ -1,6 +1,6 @@
 <h2 align="left">Hello there 👋</h2>
 
- > A result-driven software engineer with expertise in optimizing systems, enhancing collaboration, and fortifying security.
+ > I'm a result-driven software engineer with expertise in optimizing systems, enhancing collaboration, and fortifying security.
 
 📫 Reach me via Mail  - imarx5277@gmail.com
 
