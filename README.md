@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,tailwind,rust,nextjs,react,sass,mongodb,php,spring boot,java,python" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,rust,nextjs,react,sass,mongodb,php,spring boot,java" />
   </a>
 </p>
 <!--
