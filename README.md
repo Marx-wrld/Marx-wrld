@@ -2,7 +2,7 @@
 
  > I'm Ian Marx, a result-driven software engineer with expertise in optimizing systems, enhancing collaboration, and fortifying security.
 
-📫 Reach me via Mail  - imarx5277@gmail.com
+📫 Reach me via Email  - imarx5277@gmail.com
 
 👨‍💻 My portfolio website - [imarx-webportfolio.netlify.app/](https://imarx-webportfolio.netlify.app/)
 
@@ -15,6 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marx-wrld&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Marx-wrld"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marx-wrld&show_icons=true&theme=tokyonight&locale=en" alt="Marx-wrld"/></p>
 <p align="left">
+ 
  <h3 align="left">Tech stack:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,python,rust,nextjs,react,sass,java,php,spring boot" />
