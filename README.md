@@ -6,7 +6,7 @@
 
 👨‍💻 My portfolio website - [imarx-webportfolio.netlify.app/](https://imarx-webportfolio.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://x.com/its_imarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_imarx" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/ian marx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian marx" height="30" width="40"/></a>
@@ -17,6 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marx-wrld&show_icons=true&theme=tokyonight&locale=en" alt="Marx-wrld"/></p>
 
 <p align="left">
+ <h3 align="left">Tech Stack:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,python,rust,nextjs,react,sass,java,php,spring boot" />
   </a>
