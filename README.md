@@ -21,6 +21,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,python,postgresql,nodejs,react,tailwindcss,java,php,spring boot" />
   </a>
 </p>
-<!--
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marx-wrld&theme=tokyonight" alt="Marx-wrld"/></p>
--->
+
