@@ -13,8 +13,8 @@
 <a href="https://discordapp.com/users/Marx_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Marx#5523" height="40" width="50"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marx-wrld&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Marx-wrld"/></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marx-wrld&show_icons=true&theme=tokyonight&locale=en" alt="Marx-wrld"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marx-wrld&theme=tokyonight" alt="Marx-wrld"/></p>
 
 <p align="left">
  <h3 align="left">Tech stack:</h3>
