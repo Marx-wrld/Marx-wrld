@@ -35,9 +35,3 @@ I'm a results-driven Software Engineer with expertise in system optimization and
 ## Let's Connect
 
 I'm always open to interesting conversations and opportunities. Feel free to reach out!
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marx-wrld&color=blue" alt="Profile Views" />
-</div>
